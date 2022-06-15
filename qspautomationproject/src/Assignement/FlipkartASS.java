@@ -17,7 +17,7 @@ public class FlipkartASS {
 		Thread.sleep(2000);
 		driver.findElement(By.name("q")).sendKeys("lenovo");
 		Thread.sleep(2000);
-		// 	
+		// 	Abhinandan
 		//driver.findElement(By.xpath("//button[@classname='L0Z3Pu']")).click();
 		//driver.findElement(By.className("//button[@className='L0Z3Pu']")).click();
 		Thread.sleep(2000);
